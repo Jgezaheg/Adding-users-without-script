@@ -1,4 +1,4 @@
-<h1>Manualy adding users to active directory</h1>
+<h1>Manually adding users to active directory</h1>
 
 <h2>Description</h2>
 In this lab we're going to walk through how to create users in active directory using Oracle Virtual box. Configuring and running this lab has been done in the Active Directory lab previousely created.
