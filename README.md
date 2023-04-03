@@ -34,6 +34,6 @@ A dialog box will pop up prompting you to fill out the users information (first 
 
 Next to check if the user has been added to the domain right click the newly created user located in the user folder -> select "member of"<br/><br/>
 
-: This section should show htat the newly created user is a member of the domain and has been given access acordingly<br/><br/>
+: This section should show that the newly created user is a member of the domain and has been given access acordingly<br/><br/>
 
 ![johndoe](https://user-images.githubusercontent.com/129562058/229325215-b2c85737-e9bc-4eb8-9c10-cf9c464a8021.png)
